@@ -9,7 +9,7 @@ card:
     message: "Welcome to EazyBank card related local APIs"
     contactDetails:
         name: "Dragos Lech - Production Developer"
-        email: "dragos@eazybank.com"
+        email: "{cipher}5ec47fa759fb7d1d2164e0586814069c6d448fd63bede3b2c1acf0c05235d62debb1878c754e27cf3aafcdc12cd8035a"
     onCallSupport:
         - (313) 31-1343
         - (313) 31-1323

@@ -1,0 +1,15 @@
+spring:
+    config:
+        activate:
+            on-profile: "prod"
+build:
+    version: "v3"
+
+card:
+    message: "Welcome to EazyBank card related local APIs"
+    contactDetails:
+        name: "Dragos Lech - Production Developer"
+        email: "dragos@eazybank.com"
+    onCallSupport:
+        - (313) 31-1343
+        - (313) 31-1323

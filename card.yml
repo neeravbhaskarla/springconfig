@@ -1,0 +1,11 @@
+build:
+    version: "v1"
+
+card:
+    message: "Welcome to EazyBank card related local APIs"
+    contactDetails:
+        name: "Dragos Lech - QA Analyst"
+        email: "dragos@eazybank.com"
+    onCallSupport:
+        - (313) 31-1343
+        - (313) 31-1323

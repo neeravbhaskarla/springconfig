@@ -5,7 +5,7 @@ spring:
 build:
     version: "v3"
 loans:
-    message: "Welcome to EazyBank loans related local APIs cloud bus"
+    message: "Welcome to EazyBank loans related local APIs"
     contactDetails:
         name: "Amaal Grega - QA Developer"
         email: "amaal@eazybank.com"

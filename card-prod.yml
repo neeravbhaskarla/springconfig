@@ -6,7 +6,7 @@ build:
     version: "v3"
 
 card:
-    message: "Welcome to EazyBank card related local APIs"
+    message: "Welcome to EazyBank card related local APIs cloud bus"
     contactDetails:
         name: "Dragos Lech - Production Developer"
         email: "{cipher}5ec47fa759fb7d1d2164e0586814069c6d448fd63bede3b2c1acf0c05235d62debb1878c754e27cf3aafcdc12cd8035a"

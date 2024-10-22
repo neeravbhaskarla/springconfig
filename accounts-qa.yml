@@ -5,7 +5,7 @@ spring:
 build:
     version: "v3"
 accounts:
-    message: "Welcome to EazyBank accounts related local APIs webhook"
+    message: "Welcome to EazyBank accounts related local APIs webhook change"
     contactDetails:
         name: "Amaal Grega - QA Developer"
         email: "amaal@eazybank.com"
